@@ -1,4 +1,4 @@
-require '../global_utilities/global_utilities'
+require '../global_utils/global_utils'
 require 'gmail'
 
 class GmailTool
